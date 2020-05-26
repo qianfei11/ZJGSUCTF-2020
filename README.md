@@ -23,5 +23,5 @@
 |    b3ale     | 2017 |         http://blog.b3ale.cn/          |
 |    Archer    | 2017 |       https://lueleng.github.io/       |
 |   白给吹雪   | 2017 |      https://heyanlll.github.io/       |
-|    dx670     | 2017 |        https://dx670.github.io/        |
+|    dx670     | 2017 |    https://www.cnblogs.com/dx-yll/     |
 | countfatcode | 2018 |  https://www.cnblogs.com/countfatcode  |
