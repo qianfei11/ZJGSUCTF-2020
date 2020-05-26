@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ez4u2reverse</string>
+    <string name="hello">What\'s the flag?</string>
+    <string name="flag">Your guess</string>
+    <string name="check">Check</string>
+    <string name="secret">iogHhlbYf5Iu87/J3DSiXjXZhCYeYwDVSahRn4hcB8l2xbmbkuEAUg==</string>
+    <string name="success">Success!</string>
+    <string name="failed">Failed...</string>
+</resources>
