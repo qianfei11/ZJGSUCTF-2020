@@ -13,7 +13,7 @@
 
 |      ID      | 年级 |                博客地址                |
 | :----------: | :--: | :------------------------------------: |
-|    0kami     | 2014 |         http://blog.0kami.cn/          |
+|    0kami     | 2013 |         http://blog.0kami.cn/          |
 |   BetaMao    | 2015 |        https://blog.betamao.me/        |
 |   lalajun    | 2015 |       https://lalajun.github.io/       |
 |   Err0rzz    | 2015 | https://www.jianshu.com/u/123cd054ff16 |
