@@ -97,3 +97,19 @@ p.interactive()
 ```
 
 最后 cat 没给权限，要[用 awk 和 wc 来读 flag](http://blog.dornea.nu/2016/06/20/ringzer0-ctf-jail-escaping-bash/)。
+
+> 后来 [@countfatcode](https://www.cnblogs.com/countfatcode/) 发现还有非预期的地方，写代码的时候 idx 范围没控制好，导致 idx 输入 4 的时候可以直接覆盖 `tps_ptr`，又是另一种做法了：
+>
+> ```cpp
+> int read_idx() {
+>    char buf[0x10];
+>    int idx;
+>    read(0, buf, sizeof(buf));
+>    idx = atoi(buf);
+>    if (idx < 1 || idx > 4) {
+>        puts("No way");
+>        exit(-1);
+>    }
+>    return idx - 1;
+> }
+> ```
